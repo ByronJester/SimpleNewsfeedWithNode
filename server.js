@@ -7,6 +7,7 @@ var mysql 							= require('mysql');
 
 connections 						= [];
 // con.selectPost();
+// con.selectPost();
 
 server.listen(process.env.PORT || 8080);
 	console.log('Server is ruunning....');
